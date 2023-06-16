@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crezak im 15
+- 👋 Hi, I’m @crezak im 18
 - 👀 I’m interested in web-devlopping
 - 🌱 I’m currently learning html/js
 - 💞️ I’m looking to collaborate on nothing
